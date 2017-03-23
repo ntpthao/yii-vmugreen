@@ -107,3 +107,77 @@ li{
   margin-top: 25px;
 }
 /*-- End gioi-thieus --*/
+/*sản phẩm*/
+
+/*end sản phẩm*/
+
+
+
+
+
+#footer .footer-top{
+  background-color: #F1F1F1;
+}
+
+.footer-top .widget{
+  text-align: left;
+}
+
+.footer-top .widget .title {
+    font-family: 'Cuprum', sans-serif;
+    font-size: 20px;
+    position: relative;
+    text-transform: uppercase;
+    color: #000;
+    margin: 30px 0;
+}
+
+.footer-top .widget .content-widget{
+    margin-bottom: 20px;
+}
+
+.footer-top .widget .content-widget .info-list li {
+    display: table;
+    width: 100%;
+    padding: 0 0 10px;
+    border: none;
+    color: #000;
+}
+
+.footer-top .widget .content-widget a{
+    color: #000;
+}
+.footer-top .widget .content-widget a:hover{
+    color: #86bc42;
+}
+
+.footer-top ul.social-icons{
+  padding:0px 10px;
+}
+
+.footer-top ul.social-icons li a {
+  color: white;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  line-height: 30px;
+  border: 1px solid #86bc42;
+  -webkit-border-radius: 16px;
+  border-radius: 16px;
+  margin: 0 5px;
+}
+
+.footer-top ul.social-icons li a:hover {
+  color: white;
+  background-color: #86bc42;
+}
+
+
+
+#footer .footer-bottom{
+  background-color: #333;
+  color: #fff;
+}
+#footer .footer-bottom p{
+  padding: 20px 0;
+}
