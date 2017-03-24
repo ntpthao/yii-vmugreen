@@ -8,7 +8,7 @@ a:hover {
   color: #86bc42;
 } 
 
-li{
+ul li{
 	list-style: none;
 }
 /*-- Header --*/
@@ -156,7 +156,6 @@ li{
 }
 
 .footer-top ul.social-icons li a {
-  color: white;
   width: 32px;
   height: 32px;
   text-align: center;
@@ -167,12 +166,11 @@ li{
   margin: 0 5px;
 }
 
-.footer-top ul.social-icons li a:hover {
-  color: white;
+.footer-top .widget .content-widget ul.social-icons li a:hover {
   background-color: #86bc42;
+  color: #fff;
+  list-style: none;
 }
-
-
 
 #footer .footer-bottom{
   background-color: #333;
