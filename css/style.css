@@ -62,9 +62,20 @@ ul li{
 .search-box {
   text-align: right;
   margin-top: 33px;
-  position: relative;
+  /*position: relative;*/
 }
 /*-- End Header --*/
+/*menu trong file index12*/
+.navbar-default .navbar-nav > li > a{
+  font-size: 16px;
+  color: #000;
+  text-transform: uppercase;
+}
+.navbar-default .navbar-nav > li > a:hover {
+  color: #86bc42;
+}
+
+/*end menu trong file index12*/
 
 /*-- carousel slider --*/
 /*-- End carousel slider --*/
